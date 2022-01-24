@@ -18,7 +18,7 @@
 .text_switch_list {
   margin: 0;
   /*width: 500px;*/
-  /*padding-left: 10%;*/
+  padding-left: 0px;
   text-align: left;
 
   -webkit-animation-name: change;
