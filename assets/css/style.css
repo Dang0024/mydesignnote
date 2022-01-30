@@ -182,14 +182,14 @@ iframe {
 
 p {
     margin: 0 0 30px;
-    color: #7e7e7e;
-    line-height: 30px;
-    font-size: medium;
+    color: #707070;
+    line-height: 32px;
+    font-size: large;
 }
 ul, li {
     color: #7e7e7e;
-    line-height: 25px;
-    font-size: medium;
+    line-height: 28px;
+    font-size: large;
 }
 
 hr {
